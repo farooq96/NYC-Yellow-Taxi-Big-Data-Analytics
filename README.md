@@ -1,5 +1,7 @@
 # NYC-Yellow-Taxi-Big-Data-Analytics
 Analyzed New York City's Yellow taxi data set with Hadoop MapReduce
+Link to download the dataset: https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2019-01.csv
+TO explore other data sets for NYC taxis follow the link: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ## Initial Questions that I wanted to answer:
 1. What is the average number of passengers per trip in general and per day of the week?
